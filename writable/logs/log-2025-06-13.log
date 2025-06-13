@@ -587,3 +587,134 @@ INFO - 2025-06-13 06:36:31 --> Cart Class Initialized
 DEBUG - 2025-06-13 06:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2025-06-13 06:36:31 --> Cart Class Initialized
 DEBUG - 2025-06-13 06:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:30:26 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:30:29 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:30:47 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:30:50 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:35:13 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:35:16 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:45:01 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:46:24 --> Cart Class Initialized
+DEBUG - 2025-06-13 09:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 09:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 09:54:48 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:42:34 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:42:49 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:43:11 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:43:15 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-13 10:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:43:17 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:43:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:43:19 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:45:40 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:48:10 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:48:58 --> Cart Class Initialized
+CRITICAL - 2025-06-13 10:48:59 --> GuzzleHttp\Exception\ClientException: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `404 Not Found` response:
+{"meta":{"message":"Domestic Destinations Data not found","code":404,"status":"error"},"data":null}
+
+[Method: GET, Route: get-location]
+in VENDORPATH\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(72): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), null, [], null)
+ 2 VENDORPATH\guzzlehttp\promises\src\Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+ 3 VENDORPATH\guzzlehttp\promises\src\Promise.php(158): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), null)
+ 4 VENDORPATH\guzzlehttp\promises\src\TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH\guzzlehttp\promises\src\Promise.php(251): GuzzleHttp\Promise\TaskQueue->run(true)
+ 6 VENDORPATH\guzzlehttp\promises\src\Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH\guzzlehttp\promises\src\Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH\guzzlehttp\promises\src\Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH\guzzlehttp\promises\src\Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH\guzzlehttp\guzzle\src\Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH\Controllers\TransaksiController.php(81): GuzzleHttp\Client->request('GET', 'https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50', [...])
+12 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TransaksiController->getLocation()
+13 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TransaksiController))
+14 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+18 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\CI4\\public\\index.php')
+DEBUG - 2025-06-13 10:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:49:00 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:49:06 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:49:12 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:50:30 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:50:50 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:50:51 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:52:05 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:52:17 --> Cart Class Initialized
+CRITICAL - 2025-06-13 10:52:17 --> GuzzleHttp\Exception\ClientException: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semar&limit=50` resulted in a `404 Not Found` response:
+{"meta":{"message":"Domestic Destinations Data not found","code":404,"status":"error"},"data":null}
+
+[Method: GET, Route: get-location]
+in VENDORPATH\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111.
+ 1 VENDORPATH\guzzlehttp\guzzle\src\Middleware.php(72): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), null, [], null)
+ 2 VENDORPATH\guzzlehttp\promises\src\Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+ 3 VENDORPATH\guzzlehttp\promises\src\Promise.php(158): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), null)
+ 4 VENDORPATH\guzzlehttp\promises\src\TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+ 5 VENDORPATH\guzzlehttp\promises\src\Promise.php(251): GuzzleHttp\Promise\TaskQueue->run(true)
+ 6 VENDORPATH\guzzlehttp\promises\src\Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+ 7 VENDORPATH\guzzlehttp\promises\src\Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+ 8 VENDORPATH\guzzlehttp\promises\src\Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+ 9 VENDORPATH\guzzlehttp\promises\src\Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+10 VENDORPATH\guzzlehttp\guzzle\src\Client.php(189): GuzzleHttp\Promise\Promise->wait()
+11 APPPATH\Controllers\TransaksiController.php(81): GuzzleHttp\Client->request('GET', 'https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semar&limit=50', [...])
+12 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TransaksiController->getLocation()
+13 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TransaksiController))
+14 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+18 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\CI4\\public\\index.php')
+DEBUG - 2025-06-13 10:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:52:21 --> Cart Class Initialized
+DEBUG - 2025-06-13 10:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 10:52:24 --> Cart Class Initialized
+DEBUG - 2025-06-13 11:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 11:06:43 --> Cart Class Initialized
+DEBUG - 2025-06-13 11:06:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 11:06:52 --> Cart Class Initialized
+DEBUG - 2025-06-13 11:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 11:06:54 --> Cart Class Initialized
+DEBUG - 2025-06-13 11:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-13 11:07:00 --> Cart Class Initialized
+DEBUG - 2025-06-13 11:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
